@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Manning the Barricades</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Mar 2025 06:42:16 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 08:29:11 -0400</lastBuildDate>
     <atom:link href="https://jeremy-manning.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Hugo_problems</title>
+      <link>https://jeremy-manning.github.io/posts/new-hugo_problems/</link>
+      <pubDate>Sat, 22 Mar 2025 08:29:11 -0400</pubDate>
+      <guid>https://jeremy-manning.github.io/posts/new-hugo_problems/</guid>
+      <description>&lt;p&gt;###The Blog is Still Alive, But Struggling!&lt;/p&gt;&#xA;&lt;p&gt;So my initial goal with all of this is to put together a clean instruction list (and possibly youtube video) explaining the process of setting up a new blog using Hugo and Github hosting. I&amp;rsquo;ve used ChatGPT to help me get going and have run into problems with the AI using older information or not be detail oriented enough in providing code into files where needed or a combination of both.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Site Infrastructure</title>
       <link>https://jeremy-manning.github.io/posts/site-infrastructure/</link>
