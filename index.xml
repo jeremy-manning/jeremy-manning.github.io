@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manning the Barricades</title>
-    <link>https://jeremy-manning.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Manning the Barricades</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Mar 2025 08:29:11 -0400</lastBuildDate>
-    <atom:link href="https://jeremy-manning.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Mar 2025 15:53:52 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My New Post</title>
+      <link>http://localhost:1313/posts/my-new-post/</link>
+      <pubDate>Sat, 22 Mar 2025 15:53:52 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <description>This Might Be a Better Way!</description>
+    </item>
     <item>
       <title>New Hugo_problems</title>
-      <link>https://jeremy-manning.github.io/posts/new-hugo_problems/</link>
+      <link>http://localhost:1313/posts/new-hugo_problems/</link>
       <pubDate>Sat, 22 Mar 2025 08:29:11 -0400</pubDate>
-      <guid>https://jeremy-manning.github.io/posts/new-hugo_problems/</guid>
+      <guid>http://localhost:1313/posts/new-hugo_problems/</guid>
       <description>&lt;h2 id=&#34;the-blog-is-still-alive-but-struggling&#34;&gt;The Blog is Still Alive, But Struggling!&lt;/h2&gt;&#xA;&lt;p&gt;So my initial goal with all of this is to put together a clean instruction list (and possibly youtube video) explaining the process of setting up a new blog using Hugo and Github hosting. I&amp;rsquo;ve used ChatGPT to help me get going and have run into problems with the AI using older information or not be detail oriented enough in providing code into files where needed or a combination of both.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Site Infrastructure</title>
-      <link>https://jeremy-manning.github.io/posts/site-infrastructure/</link>
+      <link>http://localhost:1313/posts/site-infrastructure/</link>
       <pubDate>Thu, 20 Mar 2025 06:42:16 -0400</pubDate>
-      <guid>https://jeremy-manning.github.io/posts/site-infrastructure/</guid>
-      <description>&lt;h2 id=&#34;learning-how-all-this-works&#34;&gt;Learning How All This Works&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I need to get posting photos figured out. I think I know how to post a photo, but I&amp;rsquo;ll need to make sure it is sized correctly so I don&amp;rsquo;t end up with this:&#xA;&lt;figure&gt;&lt;img src=&#34;https://jeremy-manning.github.io/images/20150424_154257.jpg&#34;&#xA;    alt=&#34;I&amp;#39;m guessing this is entirely too large&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m not sure if these bullets are working. Do I need a space in front or not. Here&amp;rsquo;s a bit of a test:&lt;/li&gt;&#xA;&lt;li&gt;is this bulleted?&lt;/li&gt;&#xA;&lt;li&gt;how about this&lt;/li&gt;&#xA;&lt;li&gt;only a couple more&lt;/li&gt;&#xA;&lt;li&gt;if these worked, what about the first two with the spaces in front of the dash?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Numbering should be easy. I&amp;rsquo;m guessing there is a lot of formatting going on though. It may be that this type of a blog is just too barren of features for me to feel like it is useful.&lt;/li&gt;&#xA;&lt;li&gt;If longer text is being formatted correctly, that is awesome. I&amp;rsquo;m also curious about spacing between these numbers. Does everything look just like it does in my notepad data entry? I really need to find some better markdown editor. I&amp;rsquo;m sure there is something out there. If not, this could end up being a non-vaiable way for me to bring this blog back to the world. Again, even though I&amp;rsquo;m the only likely consumer of this content, I&amp;rsquo;d like it to look as nice as possible!&lt;/li&gt;&#xA;&lt;li&gt;Now I&amp;rsquo;m going to try to see how quotes work. Here&amp;rsquo;s hoping it looks decent:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I put an extra space beween numbered item 3 and this quote. &amp;ldquo;do things show up right if they are actually in quotes?&amp;rdquo;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/site-infrastructure/</guid>
+      <description>&lt;h2 id=&#34;learning-how-all-this-works&#34;&gt;Learning How All This Works&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I need to get posting photos figured out. I think I know how to post a photo, but I&amp;rsquo;ll need to make sure it is sized correctly so I don&amp;rsquo;t end up with this:&#xA;&lt;figure&gt;&lt;img src=&#34;http://localhost:1313/images/20150424_154257.jpg&#34;&#xA;    alt=&#34;I&amp;#39;m guessing this is entirely too large&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;I&amp;rsquo;m not sure if these bullets are working. Do I need a space in front or not. Here&amp;rsquo;s a bit of a test:&lt;/li&gt;&#xA;&lt;li&gt;is this bulleted?&lt;/li&gt;&#xA;&lt;li&gt;how about this&lt;/li&gt;&#xA;&lt;li&gt;only a couple more&lt;/li&gt;&#xA;&lt;li&gt;if these worked, what about the first two with the spaces in front of the dash?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Numbering should be easy. I&amp;rsquo;m guessing there is a lot of formatting going on though. It may be that this type of a blog is just too barren of features for me to feel like it is useful.&lt;/li&gt;&#xA;&lt;li&gt;If longer text is being formatted correctly, that is awesome. I&amp;rsquo;m also curious about spacing between these numbers. Does everything look just like it does in my notepad data entry? I really need to find some better markdown editor. I&amp;rsquo;m sure there is something out there. If not, this could end up being a non-vaiable way for me to bring this blog back to the world. Again, even though I&amp;rsquo;m the only likely consumer of this content, I&amp;rsquo;d like it to look as nice as possible!&lt;/li&gt;&#xA;&lt;li&gt;Now I&amp;rsquo;m going to try to see how quotes work. Here&amp;rsquo;s hoping it looks decent:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I put an extra space beween numbered item 3 and this quote. &amp;ldquo;do things show up right if they are actually in quotes?&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Getting Started</title>
-      <link>https://jeremy-manning.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 19 Mar 2025 18:44:47 -0400</pubDate>
-      <guid>https://jeremy-manning.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;im-back-finally&#34;&gt;I&amp;rsquo;m Back! Finally!&lt;/h2&gt;&#xA;&lt;p&gt;This is my first blog post in over &lt;strong&gt;a decade&lt;/strong&gt;. I&amp;rsquo;m pretty excited about it and am so glad to be back!&lt;/p&gt;</description>
     </item>
   </channel>
