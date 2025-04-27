@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Manning the Barricades</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://jeremy-manning.github.io/posts/</link>
     <description>Recent content in Posts on Manning the Barricades</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Mar 2025 15:53:52 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeremy-manning.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My New Post</title>
-      <link>http://localhost:1313/posts/my-new-post/</link>
+      <link>https://jeremy-manning.github.io/posts/my-new-post/</link>
       <pubDate>Sat, 22 Mar 2025 15:53:52 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-new-post/</guid>
+      <guid>https://jeremy-manning.github.io/posts/my-new-post/</guid>
       <description>This Might Be a Better Way!</description>
     </item>
     <item>
       <title>New Hugo_problems</title>
-      <link>http://localhost:1313/posts/new-hugo_problems/</link>
+      <link>https://jeremy-manning.github.io/posts/new-hugo_problems/</link>
       <pubDate>Sat, 22 Mar 2025 08:29:11 -0400</pubDate>
-      <guid>http://localhost:1313/posts/new-hugo_problems/</guid>
+      <guid>https://jeremy-manning.github.io/posts/new-hugo_problems/</guid>
       <description>The Blog is Still Alive, But Struggling!</description>
     </item>
     <item>
       <title>Site Infrastructure</title>
-      <link>http://localhost:1313/posts/site-infrastructure/</link>
+      <link>https://jeremy-manning.github.io/posts/site-infrastructure/</link>
       <pubDate>Thu, 20 Mar 2025 06:42:16 -0400</pubDate>
-      <guid>http://localhost:1313/posts/site-infrastructure/</guid>
+      <guid>https://jeremy-manning.github.io/posts/site-infrastructure/</guid>
       <description>Learning How All This Works</description>
     </item>
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://jeremy-manning.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 19 Mar 2025 18:44:47 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://jeremy-manning.github.io/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;im-back-finally&#34;&gt;I&amp;rsquo;m Back! Finally!&lt;/h2&gt;&#xA;&lt;p&gt;This is my first blog post in over &lt;strong&gt;a decade&lt;/strong&gt;. I&amp;rsquo;m pretty excited about it and am so glad to be back!&lt;/p&gt;</description>
     </item>
   </channel>
