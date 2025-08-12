@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Manning the Barricades</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 12:42:48 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 18:59:16 -0400</lastBuildDate>
     <atom:link href="https://jeremy-manning.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Miss Cassandra</title>
+      <link>https://jeremy-manning.github.io/posts/i-miss-cassandra/</link>
+      <pubDate>Tue, 12 Aug 2025 18:59:16 -0400</pubDate>
+      <guid>https://jeremy-manning.github.io/posts/i-miss-cassandra/</guid>
+      <description>Your summary goes here.</description>
+    </item>
     <item>
       <title>2025 Concert Series</title>
       <link>https://jeremy-manning.github.io/posts/2025-summer-concert-series/</link>
