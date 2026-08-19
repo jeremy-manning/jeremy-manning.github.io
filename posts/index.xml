@@ -10,7 +10,7 @@
 		
 		
 		
-			<lastBuildDate>Wed, 19 Aug 2026 10:27:26 -0400</lastBuildDate>
+			<lastBuildDate>Wed, 19 Aug 2026 10:37:36 -0400</lastBuildDate>
 		
 			<atom:link href="https://jeremy-manning.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
@@ -18,7 +18,7 @@
 				<link>https://jeremy-manning.github.io/posts/apps-that-read-out-loud/</link>
 				<pubDate>Wed, 19 Aug 2026 10:27:26 -0400</pubDate>
 				<guid>https://jeremy-manning.github.io/posts/apps-that-read-out-loud/</guid>
-				<description>Finding an app that reads documents aloud without an account, a subscription, or sending my files anywhere.</description>
+				<description>A research brief on local, account-free text-to-speech reading on macOS and iOS: what to buy, what to avoid, and what the machines already do.</description>
 			</item>
 			<item>
 				<title>I Miss Cassandra</title>
