@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/private/tmp/claude-501/-Users-jeremymanning-Projects-Experimental/345ba055-9aaa-43b2-9a96-784b92042977/scratchpad/build",
+	"sourceRoot": "/Users/jeremymanning/Projects/Blog/source",
 	"sources": [
 		"ananke/css/main.css"
 	],
