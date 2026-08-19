@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Manning the Barricades</title>
+		<link>https://jeremy-manning.github.io/posts/</link>
+		<description>Recent content in Posts on Manning the Barricades</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 Aug 2025 18:59:16 -0400</lastBuildDate>
+		
+			<atom:link href="https://jeremy-manning.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>I Miss Cassandra</title>
+				<link>https://jeremy-manning.github.io/posts/i-miss-cassandra/</link>
+				<pubDate>Tue, 12 Aug 2025 18:59:16 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/i-miss-cassandra/</guid>
+				<description>Your summary goes here.</description>
+			</item>
+			<item>
+				<title>2025 Concert Series</title>
+				<link>https://jeremy-manning.github.io/posts/2025-summer-concert-series/</link>
+				<pubDate>Fri, 09 May 2025 12:42:48 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/2025-summer-concert-series/</guid>
+				<description>The Manning’s Concerts</description>
+			</item>
+			<item>
+				<title>Great Concert With Cassandra</title>
+				<link>https://jeremy-manning.github.io/posts/great-concert-with-cassandra/</link>
+				<pubDate>Fri, 09 May 2025 08:58:52 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/great-concert-with-cassandra/</guid>
+				<description>San Fermin with Divine Sweater</description>
+			</item>
+			<item>
+				<title>New Vacation Photos</title>
+				<link>https://jeremy-manning.github.io/posts/new-vacation-photos/</link>
+				<pubDate>Sun, 27 Apr 2025 22:25:22 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/new-vacation-photos/</guid>
+				<description>Here are some more pictures prior to the cruise!</description>
+			</item>
+			<item>
+				<title>Short Travelogue</title>
+				<link>https://jeremy-manning.github.io/posts/short-travelogue/</link>
+				<pubDate>Sun, 27 Apr 2025 08:07:45 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/short-travelogue/</guid>
+				<description>Europe Trip 2025</description>
+			</item>
+			<item>
+				<title>My New Post</title>
+				<link>https://jeremy-manning.github.io/posts/my-new-post/</link>
+				<pubDate>Sat, 22 Mar 2025 15:53:52 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/my-new-post/</guid>
+				<description>This Might Be a Better Way!</description>
+			</item>
+			<item>
+				<title>New Hugo_problems</title>
+				<link>https://jeremy-manning.github.io/posts/new-hugo_problems/</link>
+				<pubDate>Sat, 22 Mar 2025 08:29:11 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/new-hugo_problems/</guid>
+				<description>The Blog is Still Alive, But Struggling!</description>
+			</item>
+			<item>
+				<title>Site Infrastructure</title>
+				<link>https://jeremy-manning.github.io/posts/site-infrastructure/</link>
+				<pubDate>Thu, 20 Mar 2025 06:42:16 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/site-infrastructure/</guid>
+				<description>Learning How All This Works</description>
+			</item>
+			<item>
+				<title>Getting Started</title>
+				<link>https://jeremy-manning.github.io/posts/my-first-post/</link>
+				<pubDate>Wed, 19 Mar 2025 18:44:47 -0400</pubDate>
+				<guid>https://jeremy-manning.github.io/posts/my-first-post/</guid>
+				<description>I’m Back! Finally! This is my first blog post in over a decade. I’m pretty excited about it and am so glad to be back!</description>
+			</item>
+	</channel>
+</rss>
